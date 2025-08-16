@@ -1,0 +1,5 @@
+{
+  "name": "ProjectFlow",
+  "description": "A comprehensive web-based project management application designed to help users track, organize, and visualize their projects and tasks. It provides a dashboard for a high-level overview, a timeline for chronological planning, and detailed views for managing individual project specifics, including subtasks.",
+  "requestFramePermissions": []
+}
